@@ -71,7 +71,7 @@ This project builds a smart Intrusion Detection System (IDS) for IoT networks us
     git clone https://github.com/Atharva-Nagbhidkar/ML_Based_Intrusion_Detection_System.git
 3. Navigate to the project directory:
     ```sh
-    cd ml-based-intrusion-detection-system
+    cd ML_Based_Intrusion_Detection_System
 
 
 ---
